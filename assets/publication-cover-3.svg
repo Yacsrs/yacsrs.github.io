@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+<rect width="700" height="900" fill="#fbf7ee"/>
+<rect x="0" y="0" width="700" height="22" fill="#b91f2e"/>
+<g fill="#d5c59d">
+<rect x="80" y="140" width="90" height="300"/><rect x="195" y="205" width="90" height="235"/><rect x="310" y="105" width="90" height="335"/><rect x="425" y="250" width="90" height="190"/>
+</g>
+<path d="M90 405 L240 330 L360 360 L520 245 L610 290" fill="none" stroke="#46686d" stroke-width="12"/>
+<text x="80" y="560" font-family="Georgia,serif" font-size="50" fill="#1e2a2e">From Humanitarian</text>
+<text x="80" y="620" font-family="Georgia,serif" font-size="50" fill="#1e2a2e">Response to Recovery</text>
+<text x="80" y="755" font-family="Arial,sans-serif" font-size="20" fill="#b91f2e" letter-spacing="4">POLICY BRIEF</text>
+<text x="80" y="810" font-family="Arial,sans-serif" font-size="18" fill="#5d6869">YACSRS • Planned Publication</text>
+</svg>

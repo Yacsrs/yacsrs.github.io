@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+<rect width="700" height="900" fill="#eaf2f1"/>
+<rect x="0" y="0" width="700" height="22" fill="#46686d"/>
+<path d="M350 120 C420 220 430 325 390 430 C360 500 315 560 280 640" fill="none" stroke="#7fa8ac" stroke-width="55" opacity=".7"/>
+<path d="M305 190 C350 255 350 330 325 390" fill="none" stroke="#b88a2f" stroke-width="8"/>
+<circle cx="350" cy="420" r="20" fill="#b91f2e"/>
+<text x="78" y="570" font-family="Georgia,serif" font-size="53" fill="#1e2a2e">Bab al-Mandab</text>
+<text x="78" y="630" font-family="Georgia,serif" font-size="42" fill="#1e2a2e">and Red Sea Security</text>
+<text x="78" y="760" font-family="Arial,sans-serif" font-size="20" fill="#46686d" letter-spacing="4">STRATEGIC ANALYSIS</text>
+<text x="78" y="815" font-family="Arial,sans-serif" font-size="18" fill="#5d6869">YACSRS • Planned Publication</text>
+</svg>

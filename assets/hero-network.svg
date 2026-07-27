@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f7f1e5"/>
+    <stop offset="1" stop-color="#edf4f1"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#d6b15c" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#d6b15c" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1400" height="900" fill="url(#bg)"/>
+<circle cx="1060" cy="180" r="190" fill="url(#glow)"/>
+<path d="M220 100 L530 65 L650 190 L610 350 L480 420 L330 590 L120 540 L70 320 Z" fill="#d8c795"/>
+<path d="M815 105 L1110 130 L1310 330 L1260 585 L1080 665 L875 585 L745 385 L780 210 Z" fill="#c9b173"/>
+<path d="M705 395 L850 360 L955 440 L885 545 L755 550 L670 485 Z" fill="#a77e2f"/>
+<path d="M640 0 C690 130 700 230 690 340 C680 470 710 620 790 900" fill="none" stroke="#92b5b8" stroke-width="18" opacity=".42"/>
+<g stroke="#b91f2e" stroke-width="3" fill="none" opacity=".8">
+  <path d="M770 470 C900 360 1030 330 1190 350"/>
+  <path d="M770 470 C720 620 580 690 420 720"/>
+  <path d="M770 470 C880 560 1030 620 1200 670"/>
+</g>
+<g fill="#b91f2e">
+  <circle cx="770" cy="470" r="16"/>
+  <circle cx="1190" cy="350" r="10"/>
+  <circle cx="420" cy="720" r="10"/>
+  <circle cx="1200" cy="670" r="10"/>
+</g>
+<g fill="#fff" opacity=".75">
+  <circle cx="770" cy="470" r="5"/>
+  <circle cx="1190" cy="350" r="3"/>
+  <circle cx="420" cy="720" r="3"/>
+  <circle cx="1200" cy="670" r="3"/>
+</g>
+<text x="720" y="435" font-family="Georgia,serif" font-size="48" fill="#fff" font-weight="700">YEMEN</text>
+<text x="760" y="820" font-family="Arial,sans-serif" font-size="26" fill="#476468" letter-spacing="6">RED SEA • ARABIAN PENINSULA • REGIONAL SECURITY</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+<rect width="700" height="900" fill="#f6f0e4"/>
+<rect x="0" y="0" width="700" height="22" fill="#b88a2f"/>
+<circle cx="540" cy="165" r="120" fill="#e8dac0"/>
+<path d="M90 255 C210 180 330 190 450 245 C515 275 565 330 620 390" fill="none" stroke="#46686d" stroke-width="12"/>
+<path d="M105 300 C220 230 350 235 495 310" fill="none" stroke="#b91f2e" stroke-width="5"/>
+<text x="80" y="500" font-family="Georgia,serif" font-size="55" fill="#1e2a2e">Yemen in 2026</text>
+<text x="80" y="565" font-family="Arial,sans-serif" font-size="25" fill="#5d6869">Institutions, competing authorities,</text>
+<text x="80" y="602" font-family="Arial,sans-serif" font-size="25" fill="#5d6869">and paths toward stability</text>
+<text x="80" y="735" font-family="Arial,sans-serif" font-size="20" fill="#b88a2f" letter-spacing="4">FOUNDATIONAL BRIEF</text>
+<text x="80" y="790" font-family="Arial,sans-serif" font-size="18" fill="#5d6869">YACSRS • Planned Publication</text>
+</svg>

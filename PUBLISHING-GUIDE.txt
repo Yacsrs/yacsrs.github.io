@@ -1,0 +1,19 @@
+YACSRS WEBSITE V3 — HOW TO PUBLISH A PDF
+
+1. Create a folder named publications in your GitHub repository.
+2. Upload your PDF into that folder. Use a simple filename such as:
+   red-sea-security-2026.pdf
+3. Edit publications.html.
+4. Find the matching publication card.
+5. Add this button inside the pub-body section:
+
+   <a class="btn gold" href="publications/red-sea-security-2026.pdf" target="_blank">Read PDF</a>
+
+6. Change “Planned publication” to the real publication date.
+7. Commit the change.
+8. Wait 1–3 minutes and refresh the website.
+
+IMPORTANT:
+- Upload all files from this package to the repository root.
+- Upload all image files into the assets folder.
+- Keep filenames exactly as provided.
