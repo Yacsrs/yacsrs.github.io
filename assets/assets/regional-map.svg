@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#f8f4ea"/>
+<path d="M510 40 C555 110 562 160 555 220 C550 280 525 332 530 400 C535 470 590 528 620 610 L775 610 C740 500 710 410 700 315 C690 220 720 135 780 40 Z" fill="#dcebed"/>
+<path d="M130 90 L370 60 L492 120 L510 215 L475 300 L355 360 L290 450 L120 430 L75 315 Z" fill="#d7c28f"/>
+<path d="M755 70 L970 95 L1105 215 L1070 400 L940 475 L800 430 L700 325 L730 190 Z" fill="#ccb274"/>
+<path d="M650 350 L760 330 L825 390 L770 465 L680 470 L625 420 Z" fill="#b79345"/>
+<circle cx="690" cy="415" r="16" fill="#b91f2e"/>
+<text x="660" y="390" font-family="Georgia,serif" font-size="34" fill="#fff" font-weight="700">YEMEN</text>
+<text x="500" y="635" font-family="Arial,sans-serif" font-size="25" fill="#48696d" letter-spacing="3">RED SEA • BAB AL-MANDAB • ARABIAN PENINSULA</text>
+</svg>
