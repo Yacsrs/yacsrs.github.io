@@ -1,5 +1,5 @@
 window.YACSRS_CONFIG = {
-  email: "yacsrs.us@gmail.com",
+  email: "yacsrs@gmail.com",
   linkedin: "#",
   x: "#",
   youtube: "#",
